@@ -1,0 +1,13 @@
+DERİN DENİZ
+
+Kullanım
+1. ZIP dosyasını bir klasöre çıkarın.
+2. Klasördeki index.html dosyasını güncel bir tarayıcıyla açın.
+3. assets klasörünü ve diğer dosyaları index.html ile aynı klasörde tutun.
+
+Görseller, yazı tipleri, stiller ve animasyon kodları pakete dahildir.
+Keşif rotası yukarı kaydırınca görünür, aşağı kaydırınca gizlenir.
+Dil menüsünden Türkçe veya İngilizce seçebilirsiniz.
+Bilgi kaynaklarına ve esinlenilen siteye giden bağlantılar internet gerektirir.
+
+Esinlenme: Neal.fun by Neal Agarwal.
